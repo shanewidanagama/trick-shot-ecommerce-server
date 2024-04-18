@@ -1,0 +1,18 @@
+{
+  "name": "trick-shot-ecommerce-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "graphql": "^16.8.1",
+    "graphql-http": "^1.22.1",
+    "morgan": "~1.9.1",
+    "ruru": "^2.0.0-beta.11"
+  },
+  "packageManager": "yarn@4.1.0"
+}
